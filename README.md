@@ -1,0 +1,2 @@
+# EogEmg
+first simple code
